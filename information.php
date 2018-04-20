@@ -42,7 +42,16 @@
         </ul>
 
         <h2 id="presentations">Presentations and Posters</h2>
-        <h3>2017</h3>
+        <h3>2018</h3>
+        <ul>
+          <li>
+            <a href="files/USF_FFMA_2018.pdf
+               Understanding Stakeholder Values to Increase Support for Adaptation Planning. 
+              </a>       
+              Florida Floodplain Managers Association Annual Conference, Orlando, Florida, Reynolds, C., April 12, 2018.
+        </li>
+          <li>
+             <h3>2017</h3>
         <ul>
           <li>
             <a href="http://www.floridaleagueofcities.com/docs/default-source/CMRI/Dec-17-Presentations/reynolds-flc-2017.pdf?sfvrsn=4">
