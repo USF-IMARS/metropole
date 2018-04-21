@@ -53,8 +53,8 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-14">
-				<p><strong>Read Our Latest Articles</strong></p>
+			<div class="col-md-12">
+				<h4><strong>Read Our Latest Articles</strong></h4>
 				<p>
 					Merrill, S., Kartez, J., Langbehn,K., Muller Karger F., Reynolds, C., 2018 
 					"Who Should Pay for Climate Adaptation?: 
@@ -70,11 +70,11 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-14">
-				<p><strong>Latest Presentations for Practitioners and Elected Officials</strong></p>
+			<div class="col-md-12">
+				<h4><strong>Latest Presentations for Practitioners and Elected Officials</strong></h4>
 				<p> 
-				<p>Florida Floodplain Managers Association Annual Conference, Orlando, April 12, 2018 </p>
-				<a href="files/USF FFMA 2018 upload.pdf">
+					<p>Florida Floodplain Managers Association Annual Conference, Orlando, April 12, 2018 </p>
+					<a href="files/USF FFMA 2018 upload.pdf">
 					
 					<a href="http://www.floridaleagueofcities.com/docs/default-source/CMRI/Dec-17-Presentations/reynolds-flc-2017.pdf?sfvrsn=4" >
 						"Understanding Community Values to Support Resiliency Improvements," 
@@ -88,12 +88,10 @@
 				<p>American Planning Association -- Florida Chapter, Annual Conference session Sept. 7, 8:30-9:45, 2017</p>
 				<a href="files/Sept 7 2017 830 METROPOLE.pdf">"Working with Social Factors and Values to Support Adaptation Planning and Public Finance"</a>
 				</p>
-	</p>		
-	</div>
 		</div>
 		<div class="row">  <!-- sub-footer -->
-			<div class="col-md-14">
-				<p><strong>Collaborations between universities, private sector and local government deliver tangible benefits to society – locally and globally.</strong></p>
+			<div class="col-md-12">
+				<h4><strong>Collaborations between universities, private sector and local government deliver tangible benefits to society – locally and globally.</strong></h4>
 
 				<img class="img-responsive" alt="team logo" src="image/partner_logos.jpg" style="width:936px">
 			</div>
