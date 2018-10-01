@@ -7,10 +7,15 @@
         <h3>2018</h3>
         <ul>
           <li>
-            Merrill, S., Kartez, J., Langbehn,K., Muller Karger F., Reynolds, C., 2018 
-            "Who Should Pay for Climate Adaptation?: 
-            Public Attitudes and Financing of Flood Protection in Florida" 
-            Environmental Values (in press.)
+            Samuel Merrill, Jack Kartez, Karen Langbehn, 
+            Frank Muller-Karger, Catherine J. Reynolds, 2018. 
+            "<a href="https://ideas.repec.org/a/env/journl/ev27ev2721.html">
+              Who Should Pay for Climate Adaptation? 
+              Public Attitudes and the Financing of Flood Protection in Florida
+            </a>," 
+            <a href="https://ideas.repec.org/s/env/journl.html">
+              Environmental Values,
+            </a>, White Horse Press, vol. 27(5), pgs 535-557, October.  ISSN 09632719. 
           </li>
         </ul>
         <h3>2017</h3>
