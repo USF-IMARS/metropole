@@ -14,7 +14,7 @@
               Public Attitudes and the Financing of Flood Protection in Florida
             </a>," 
             <a href="https://ideas.repec.org/s/env/journl.html">
-              Environmental Values,
+              Environmental Values
             </a>, White Horse Press, vol. 27(5), pgs 535-557, October.  ISSN 09632719. 
           </li>
         </ul>
