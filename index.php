@@ -115,7 +115,16 @@
 				</a>
 			</div>
 		</div>
-
+		<div class="row">
+			<div class="col-md-12">
+				<h4><strong>Books</strong></h4>
+				<p>
+					Climate Change in Santos Brazil: Projections, Impacts and Adaptation Options, 2018, 
+					Editors: Lucí Hidalgo Nunes, Roberto Greco, José A. Marengo, 
+					Springer ISBN 978-3-319-96534-5 ISBN 978-3-319-96535-2 (eBook) https://doi.org/10.1007/978-3-319-96535-2
+				</p>
+			</div> <!-- /col -->
+		</div> <!-- /row -->
 		<div class="row">
 			<div class="col-md-12">
 				<h4><strong>Read Our Latest Articles</strong></h4>
