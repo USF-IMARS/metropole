@@ -115,7 +115,16 @@
 				</a>
 			</div>
 		</div>
-
+		<div class="row">
+			<div class="col-md-12">
+				<h4><strong>Books</strong></h4>
+				<p>
+					Climate Change in Santos Brazil: Projections, Impacts and Adaptation Options, 2018, 
+					Editors: Lucí Hidalgo Nunes, Roberto Greco, José A. Marengo, 
+					Springer ISBN 978-3-319-96534-5 ISBN 978-3-319-96535-2 (eBook) https://doi.org/10.1007/978-3-319-96535-2
+				</p>
+			</div> <!-- /col -->
+		</div> <!-- /row -->
 		<div class="row">
 			<div class="col-md-12">
 				<h4><strong>Read Our Latest Articles</strong></h4>
@@ -168,16 +177,14 @@
 						Reynolds, C.J., Keynote Address, 
 						Florida League of Cities Annual Research Symposium, Dec. 2017, Orlando, FL
 					</p>
+					<p>
+						American Planning Association -- Florida Chapter, Annual Conference session Sept. 7, 8:30-9:45, 2017
+						<a href="files/Sept 7 2017 830 METROPOLE.pdf">
+							"Working with Social Factors and Values to Support Adaptation Planning and Public Finance"
+						</a>
+					</p>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<p>
-				American Planning Association -- Florida Chapter, Annual Conference session Sept. 7, 8:30-9:45, 2017
-				<a href="files/Sept 7 2017 830 METROPOLE.pdf">
-					"Working with Social Factors and Values to Support Adaptation Planning and Public Finance"
-				</a>
-			</p>
 		</div>
 		<div class="row">  <!-- sub-footer -->
 			<div class="col-md-12">
